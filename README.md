@@ -26,7 +26,7 @@ Se creará un sistema tipo CRUD que persista la información en un archivo JSON 
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
 ```bash
-git git@github.com:Percy-182/desafio_Abracadabra_M6D2.git
+git git@github.com:Percy-182/prueba_ClubDeportivoM6D12.git
 ```
 
 ### Pre-requisitos 📋
